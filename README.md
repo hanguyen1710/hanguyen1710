@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hanguyen1710
 - 👀 I’m interested in processing data and digital signal by Python language
-- 🌱 I’m currently learning Telecommunication and Electrical
+- 🌱 I’m currently learning Telecommunication and Electronic
 - 💞️ I’m looking to collaborate on PTIT
 - 📫 How to reach me: Mail nguyenha10a117102002@gmail.com and Phone: +84867951640
 - ⚡ Fun fact: Đàn ông commit, đàn bà complain
